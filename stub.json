@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a module in python to make rest calls to ansible tower's rest API. This module will be imported into a Flask API that implements a Teams bot based on the Bot Builder SDK.","md5":"71738ece91b0ccd2700d5330b00295e4"}]}
